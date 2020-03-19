@@ -1,2 +1,3 @@
 # cnn-cats-vs-dogs
-First attempt at Neural Nets
+
+This was my first attempt into deep learning.
